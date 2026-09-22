@@ -1,1 +1,1 @@
-Spatially resolved gene expression from stereo-seq dta for two liver tissues: high feed efficiency and low feed efficiency, reveals hepatic zonation and molecular variation across feed efficiency in cattle
+Spatially resolved gene expression from stereo-seq dta for two liver tissues: high feed efficiency and low feed efficiency, reveals hepatic zonation and molecular variation across feed efficiency in cattle.
